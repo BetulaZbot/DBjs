@@ -1,0 +1,19 @@
+{
+  "name": "core-dbjs",
+  "version": "0.0.7",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BetulaZbot/DBjs.git"
+  },
+  "author": "betulachen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BetulaZbot/DBjs/issues"
+  },
+  "homepage": "https://github.com/BetulaZbot/DBjs#readme"
+}
